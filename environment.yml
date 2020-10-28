@@ -1,0 +1,7 @@
+name: pythonGISCourse
+channels:
+  - conda-forge
+dependencies:
+  - geopandas
+  - matplotlib
+  - descartes
