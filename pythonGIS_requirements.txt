@@ -3,3 +3,4 @@ source /opt/anaconda/etc/profile.d/conda.sh
 conda activate gistest
 pip install notebook
 conda install -c conda-forge descartes
+conda install -c conda-forge shapely
